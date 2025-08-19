@@ -1,4 +1,4 @@
-# Circuit Benchmark Testcases
+# Awesome Circuit Benchmarks
 
 This repository contains a comprehensive collection of circuit benchmarks for logic synthesis and verification research.
 
