@@ -1,0 +1,14 @@
+{
+  "name": "table5",
+  "benchmark_group": "mcnc",
+  "pi_count": 17,
+  "po_count": 0,
+  "gate_count": 15,
+  "level": 26,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 2004,
+  "total_gates": 2019,
+  "num_latches": 1987
+}

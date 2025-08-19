@@ -1,0 +1,14 @@
+{
+  "name": "ex151",
+  "benchmark_group": "iwls2025",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 15,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 527,
+  "total_gates": 535,
+  "num_latches": 519
+}

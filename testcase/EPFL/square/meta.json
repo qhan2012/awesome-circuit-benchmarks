@@ -1,0 +1,14 @@
+{
+  "name": "square",
+  "benchmark_group": "EPFL",
+  "pi_count": 64,
+  "po_count": 1,
+  "gate_count": 128,
+  "level": 250,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "arith",
+  "max_var": 18305,
+  "total_gates": 18434,
+  "num_latches": 18241
+}

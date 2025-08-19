@@ -1,0 +1,14 @@
+{
+  "name": "ex199",
+  "benchmark_group": "iwls2025",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 16,
+  "level": 33,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 18067,
+  "total_gates": 18083,
+  "num_latches": 18051
+}

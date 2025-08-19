@@ -1,0 +1,14 @@
+{
+  "name": "C6288",
+  "benchmark_group": "mcnc",
+  "pi_count": 32,
+  "po_count": 0,
+  "gate_count": 32,
+  "level": 89,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 1902,
+  "total_gates": 1934,
+  "num_latches": 1870
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ex17",
+  "benchmark_group": "iwls2022",
+  "pi_count": 6,
+  "po_count": 0,
+  "gate_count": 6,
+  "level": 10,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "sorter",
+  "max_var": 93,
+  "total_gates": 99,
+  "num_latches": 87
+}

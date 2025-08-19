@@ -1,0 +1,15 @@
+{
+  "name": "mult_16x16_wallace_vl1",
+  "benchmark_group": "Synthetic",
+  "pi_count": 32,
+  "po_count": 0,
+  "gate_count": 32,
+  "level": 469,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "multiplier",
+  "size_category": "verylarge",
+  "max_var": 6450,
+  "total_gates": 6482,
+  "num_latches": 6418
+}

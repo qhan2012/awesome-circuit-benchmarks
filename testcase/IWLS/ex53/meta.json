@@ -1,0 +1,14 @@
+{
+  "name": "ex53",
+  "benchmark_group": "iwls2022",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 2,
+  "level": 14,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 163,
+  "total_gates": 165,
+  "num_latches": 155
+}

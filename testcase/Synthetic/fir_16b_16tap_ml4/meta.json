@@ -1,0 +1,15 @@
+{
+  "name": "fir_16b_16tap_ml4",
+  "benchmark_group": "Synthetic",
+  "pi_count": 256,
+  "po_count": 0,
+  "gate_count": 24,
+  "level": 98,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "fir",
+  "size_category": "medium",
+  "max_var": 6069,
+  "total_gates": 6093,
+  "num_latches": 5813
+}

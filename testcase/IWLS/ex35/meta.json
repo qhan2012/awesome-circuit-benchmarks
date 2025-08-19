@@ -1,0 +1,14 @@
+{
+  "name": "ex35",
+  "benchmark_group": "iwls2022",
+  "pi_count": 7,
+  "po_count": 0,
+  "gate_count": 2,
+  "level": 8,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 41,
+  "total_gates": 43,
+  "num_latches": 34
+}

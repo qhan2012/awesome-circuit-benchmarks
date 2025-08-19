@@ -1,0 +1,14 @@
+{
+  "name": "mem_ctrl",
+  "benchmark_group": "EPFL",
+  "pi_count": 1204,
+  "po_count": 1231,
+  "gate_count": 1231,
+  "level": 114,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "control",
+  "max_var": 42485,
+  "total_gates": 44947,
+  "num_latches": 41281
+}

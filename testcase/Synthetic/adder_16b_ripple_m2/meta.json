@@ -1,0 +1,15 @@
+{
+  "name": "adder_16b_ripple_m2",
+  "benchmark_group": "Synthetic",
+  "pi_count": 33,
+  "po_count": 0,
+  "gate_count": 17,
+  "level": 34,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "adder",
+  "size_category": "medium",
+  "max_var": 145,
+  "total_gates": 162,
+  "num_latches": 112
+}

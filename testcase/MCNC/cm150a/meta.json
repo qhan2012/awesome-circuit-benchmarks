@@ -1,0 +1,14 @@
+{
+  "name": "cm150a",
+  "benchmark_group": "mcnc",
+  "pi_count": 21,
+  "po_count": 0,
+  "gate_count": 1,
+  "level": 9,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "other",
+  "max_var": 67,
+  "total_gates": 68,
+  "num_latches": 46
+}

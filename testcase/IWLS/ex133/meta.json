@@ -1,0 +1,14 @@
+{
+  "name": "ex133",
+  "benchmark_group": "iwls2025",
+  "pi_count": 14,
+  "po_count": 0,
+  "gate_count": 7,
+  "level": 32,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "divider",
+  "max_var": 3994,
+  "total_gates": 4001,
+  "num_latches": 3980
+}

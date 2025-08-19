@@ -1,0 +1,14 @@
+{
+  "name": "ex88",
+  "benchmark_group": "iwls2022",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 3,
+  "level": 24,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 1345,
+  "total_gates": 1348,
+  "num_latches": 1333
+}

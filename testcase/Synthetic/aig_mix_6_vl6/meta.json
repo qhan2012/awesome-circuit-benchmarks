@@ -1,0 +1,15 @@
+{
+  "name": "aig_mix_6_vl6",
+  "benchmark_group": "Synthetic",
+  "pi_count": 144,
+  "po_count": 0,
+  "gate_count": 72,
+  "level": 6,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "aig_mix",
+  "size_category": "verylarge",
+  "max_var": 518,
+  "total_gates": 590,
+  "num_latches": 374
+}

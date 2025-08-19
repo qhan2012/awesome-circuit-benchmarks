@@ -1,0 +1,14 @@
+{
+  "name": "voter",
+  "benchmark_group": "EPFL",
+  "pi_count": 1001,
+  "po_count": 1,
+  "gate_count": 1,
+  "level": 70,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "logic",
+  "max_var": 11052,
+  "total_gates": 11054,
+  "num_latches": 10051
+}

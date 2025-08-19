@@ -1,0 +1,14 @@
+{
+  "name": "max",
+  "benchmark_group": "EPFL",
+  "pi_count": 512,
+  "po_count": 1,
+  "gate_count": 130,
+  "level": 287,
+  "category": "combinational",
+  "difficulty": "hard",
+  "circuit_type": "arith",
+  "max_var": 3345,
+  "total_gates": 3476,
+  "num_latches": 2833
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ex130",
+  "benchmark_group": "iwls2025",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 4,
+  "level": 15,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "divider",
+  "max_var": 150,
+  "total_gates": 154,
+  "num_latches": 142
+}

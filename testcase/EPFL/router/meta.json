@@ -1,0 +1,14 @@
+{
+  "name": "router",
+  "benchmark_group": "EPFL",
+  "pi_count": 60,
+  "po_count": 1,
+  "gate_count": 30,
+  "level": 54,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "control",
+  "max_var": 246,
+  "total_gates": 277,
+  "num_latches": 186
+}

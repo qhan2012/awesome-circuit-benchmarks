@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "benchmark_group": "mcnc",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 5,
+  "level": 12,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "other",
+  "max_var": 158,
+  "total_gates": 163,
+  "num_latches": 150
+}

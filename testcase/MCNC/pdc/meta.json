@@ -1,0 +1,14 @@
+{
+  "name": "pdc",
+  "benchmark_group": "mcnc",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 40,
+  "level": 26,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "control",
+  "max_var": 1637,
+  "total_gates": 1677,
+  "num_latches": 1621
+}

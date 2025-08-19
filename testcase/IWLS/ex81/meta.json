@@ -1,0 +1,14 @@
+{
+  "name": "ex81",
+  "benchmark_group": "iwls2022",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 3,
+  "level": 26,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 2421,
+  "total_gates": 2424,
+  "num_latches": 2409
+}

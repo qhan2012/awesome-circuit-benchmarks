@@ -1,0 +1,14 @@
+{
+  "name": "c2670",
+  "benchmark_group": "iscas85",
+  "pi_count": 233,
+  "po_count": 0,
+  "gate_count": 140,
+  "level": 19,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 894,
+  "total_gates": 1034,
+  "num_latches": 661
+}

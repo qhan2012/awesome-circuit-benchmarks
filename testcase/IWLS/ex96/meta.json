@@ -1,0 +1,14 @@
+{
+  "name": "ex96",
+  "benchmark_group": "iwls2022",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 3,
+  "level": 21,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 351,
+  "total_gates": 354,
+  "num_latches": 339
+}

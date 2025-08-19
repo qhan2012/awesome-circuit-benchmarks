@@ -1,0 +1,14 @@
+{
+  "name": "sin",
+  "benchmark_group": "EPFL",
+  "pi_count": 24,
+  "po_count": 1,
+  "gate_count": 25,
+  "level": 225,
+  "category": "combinational",
+  "difficulty": "hard",
+  "circuit_type": "arith",
+  "max_var": 5359,
+  "total_gates": 5385,
+  "num_latches": 5335
+}

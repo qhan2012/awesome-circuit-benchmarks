@@ -1,0 +1,14 @@
+{
+  "name": "ex174",
+  "benchmark_group": "iwls2025",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 37,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 39003,
+  "total_gates": 39011,
+  "num_latches": 38987
+}

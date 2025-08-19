@@ -1,0 +1,14 @@
+{
+  "name": "misex3c",
+  "benchmark_group": "mcnc",
+  "pi_count": 14,
+  "po_count": 0,
+  "gate_count": 14,
+  "level": 23,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 735,
+  "total_gates": 749,
+  "num_latches": 721
+}

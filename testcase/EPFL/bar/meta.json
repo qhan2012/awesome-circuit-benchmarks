@@ -1,0 +1,14 @@
+{
+  "name": "bar",
+  "benchmark_group": "EPFL",
+  "pi_count": 135,
+  "po_count": 1,
+  "gate_count": 128,
+  "level": 12,
+  "category": "combinational",
+  "difficulty": "hard",
+  "circuit_type": "logic",
+  "max_var": 3087,
+  "total_gates": 3216,
+  "num_latches": 2952
+}

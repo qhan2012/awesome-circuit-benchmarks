@@ -1,0 +1,14 @@
+{
+  "name": "ex66",
+  "benchmark_group": "iwls2022",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 4,
+  "level": 28,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 2629,
+  "total_gates": 2633,
+  "num_latches": 2613
+}

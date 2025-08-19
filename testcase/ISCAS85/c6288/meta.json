@@ -1,0 +1,14 @@
+{
+  "name": "c6288",
+  "benchmark_group": "iscas85",
+  "pi_count": 32,
+  "po_count": 0,
+  "gate_count": 32,
+  "level": 89,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 1902,
+  "total_gates": 1934,
+  "num_latches": 1870
+}

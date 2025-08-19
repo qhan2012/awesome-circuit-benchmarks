@@ -1,0 +1,15 @@
+{
+  "name": "mult_4x4_booth_ml5",
+  "benchmark_group": "Synthetic",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 32,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "multiplier",
+  "size_category": "midlevel",
+  "max_var": 190,
+  "total_gates": 198,
+  "num_latches": 182
+}

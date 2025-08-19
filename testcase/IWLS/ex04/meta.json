@@ -1,0 +1,14 @@
+{
+  "name": "ex04",
+  "benchmark_group": "iwls2022",
+  "pi_count": 10,
+  "po_count": 0,
+  "gate_count": 1,
+  "level": 20,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 681,
+  "total_gates": 682,
+  "num_latches": 671
+}

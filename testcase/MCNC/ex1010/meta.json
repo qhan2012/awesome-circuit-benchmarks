@@ -1,0 +1,14 @@
+{
+  "name": "ex1010",
+  "benchmark_group": "mcnc",
+  "pi_count": 10,
+  "po_count": 0,
+  "gate_count": 10,
+  "level": 24,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "other",
+  "max_var": 3350,
+  "total_gates": 3360,
+  "num_latches": 3340
+}

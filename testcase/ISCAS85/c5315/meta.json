@@ -1,0 +1,14 @@
+{
+  "name": "c5315",
+  "benchmark_group": "iscas85",
+  "pi_count": 178,
+  "po_count": 0,
+  "gate_count": 123,
+  "level": 27,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 1778,
+  "total_gates": 1901,
+  "num_latches": 1600
+}

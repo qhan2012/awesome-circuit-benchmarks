@@ -1,0 +1,14 @@
+{
+  "name": "ex141",
+  "benchmark_group": "iwls2025",
+  "pi_count": 10,
+  "po_count": 0,
+  "gate_count": 20,
+  "level": 22,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 3210,
+  "total_gates": 3230,
+  "num_latches": 3200
+}

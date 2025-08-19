@@ -1,0 +1,14 @@
+{
+  "name": "int2float",
+  "benchmark_group": "EPFL",
+  "pi_count": 11,
+  "po_count": 1,
+  "gate_count": 7,
+  "level": 16,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "arith",
+  "max_var": 211,
+  "total_gates": 219,
+  "num_latches": 200
+}

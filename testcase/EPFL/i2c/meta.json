@@ -1,0 +1,14 @@
+{
+  "name": "i2c",
+  "benchmark_group": "EPFL",
+  "pi_count": 147,
+  "po_count": 1,
+  "gate_count": 142,
+  "level": 20,
+  "category": "combinational",
+  "difficulty": "hard",
+  "circuit_type": "control",
+  "max_var": 1219,
+  "total_gates": 1362,
+  "num_latches": 1072
+}

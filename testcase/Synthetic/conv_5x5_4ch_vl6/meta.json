@@ -1,0 +1,17 @@
+{
+  "name": "conv_5x5_4ch_vl6",
+  "benchmark_group": "Synthetic",
+  "pi_count": 200,
+  "po_count": 0,
+  "gate_count": 64,
+  "level": 122,
+  "category": "combinational",
+  "difficulty": "extreme",
+  "circuit_type": "conv",
+  "size_category": "large",
+  "description": "multi-bit precision 5x5 kernel Parallel convolution engine with fixed weights",
+  "conversion_note": "Converted from memory-based sliding window to parallel computation with fixed weights",
+  "max_var": 14188,
+  "total_gates": 14252,
+  "num_latches": 13988
+}

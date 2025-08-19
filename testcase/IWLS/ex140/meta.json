@@ -1,0 +1,14 @@
+{
+  "name": "ex140",
+  "benchmark_group": "iwls2025",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 16,
+  "level": 16,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 738,
+  "total_gates": 754,
+  "num_latches": 730
+}

@@ -1,0 +1,14 @@
+{
+  "name": "x2",
+  "benchmark_group": "mcnc",
+  "pi_count": 10,
+  "po_count": 0,
+  "gate_count": 7,
+  "level": 6,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "other",
+  "max_var": 45,
+  "total_gates": 52,
+  "num_latches": 35
+}

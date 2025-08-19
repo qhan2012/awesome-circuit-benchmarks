@@ -1,0 +1,14 @@
+{
+  "name": "multiplier",
+  "benchmark_group": "EPFL",
+  "pi_count": 128,
+  "po_count": 1,
+  "gate_count": 128,
+  "level": 274,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "arith",
+  "max_var": 25128,
+  "total_gates": 25257,
+  "num_latches": 25000
+}

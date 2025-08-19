@@ -1,0 +1,14 @@
+{
+  "name": "dec",
+  "benchmark_group": "EPFL",
+  "pi_count": 8,
+  "po_count": 1,
+  "gate_count": 256,
+  "level": 3,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "control",
+  "max_var": 312,
+  "total_gates": 569,
+  "num_latches": 304
+}

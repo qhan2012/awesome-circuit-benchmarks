@@ -1,0 +1,14 @@
+{
+  "name": "ex158",
+  "benchmark_group": "iwls2025",
+  "pi_count": 15,
+  "po_count": 0,
+  "gate_count": 14,
+  "level": 40,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 71103,
+  "total_gates": 71117,
+  "num_latches": 71088
+}

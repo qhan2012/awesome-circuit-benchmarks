@@ -1,0 +1,14 @@
+{
+  "name": "ex169",
+  "benchmark_group": "iwls2025",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 34,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 41652,
+  "total_gates": 41660,
+  "num_latches": 41636
+}

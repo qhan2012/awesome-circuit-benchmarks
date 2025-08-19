@@ -1,0 +1,15 @@
+{
+  "name": "decoder_3to8_s2",
+  "benchmark_group": "Synthetic",
+  "pi_count": 4,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 3,
+  "category": "combinational",
+  "difficulty": "easy",
+  "circuit_type": "decoder",
+  "size_category": "small",
+  "max_var": 18,
+  "total_gates": 26,
+  "num_latches": 14
+}

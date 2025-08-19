@@ -1,0 +1,17 @@
+{
+  "name": "mac_8b_l4",
+  "benchmark_group": "Synthetic",
+  "pi_count": 64,
+  "po_count": 0,
+  "gate_count": 16,
+  "level": 49,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "mac",
+  "size_category": "medium",
+  "description": "8-bit precision Parallel multiply-accumulate unit (combinational)",
+  "conversion_note": "Converted from sequential accumulator to parallel multiply-add tree",
+  "max_var": 2201,
+  "total_gates": 2217,
+  "num_latches": 2137
+}

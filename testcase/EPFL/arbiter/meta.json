@@ -1,0 +1,14 @@
+{
+  "name": "arbiter",
+  "benchmark_group": "EPFL",
+  "pi_count": 256,
+  "po_count": 1,
+  "gate_count": 129,
+  "level": 87,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "control",
+  "max_var": 12244,
+  "total_gates": 12374,
+  "num_latches": 11988
+}

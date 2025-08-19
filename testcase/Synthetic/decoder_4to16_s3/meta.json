@@ -1,0 +1,15 @@
+{
+  "name": "decoder_4to16_s3",
+  "benchmark_group": "Synthetic",
+  "pi_count": 5,
+  "po_count": 0,
+  "gate_count": 16,
+  "level": 6,
+  "category": "combinational",
+  "difficulty": "easy",
+  "circuit_type": "decoder",
+  "size_category": "small",
+  "max_var": 39,
+  "total_gates": 55,
+  "num_latches": 34
+}

@@ -1,0 +1,14 @@
+{
+  "name": "in7",
+  "benchmark_group": "mcnc",
+  "pi_count": 26,
+  "po_count": 0,
+  "gate_count": 10,
+  "level": 19,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "control",
+  "max_var": 193,
+  "total_gates": 203,
+  "num_latches": 167
+}

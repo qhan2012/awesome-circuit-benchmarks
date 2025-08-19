@@ -1,0 +1,14 @@
+{
+  "name": "ctrl",
+  "benchmark_group": "EPFL",
+  "pi_count": 7,
+  "po_count": 1,
+  "gate_count": 26,
+  "level": 10,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "control",
+  "max_var": 109,
+  "total_gates": 136,
+  "num_latches": 102
+}

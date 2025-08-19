@@ -1,0 +1,14 @@
+{
+  "name": "cavlc",
+  "benchmark_group": "EPFL",
+  "pi_count": 10,
+  "po_count": 1,
+  "gate_count": 11,
+  "level": 16,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "dsp",
+  "max_var": 646,
+  "total_gates": 658,
+  "num_latches": 636
+}

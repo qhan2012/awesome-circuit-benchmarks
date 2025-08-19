@@ -1,0 +1,14 @@
+{
+  "name": "priority",
+  "benchmark_group": "EPFL",
+  "pi_count": 128,
+  "po_count": 1,
+  "gate_count": 8,
+  "level": 250,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "control",
+  "max_var": 1112,
+  "total_gates": 1121,
+  "num_latches": 984
+}

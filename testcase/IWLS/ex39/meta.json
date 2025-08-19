@@ -1,0 +1,14 @@
+{
+  "name": "ex39",
+  "benchmark_group": "iwls2022",
+  "pi_count": 14,
+  "po_count": 0,
+  "gate_count": 14,
+  "level": 31,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 6410,
+  "total_gates": 6424,
+  "num_latches": 6396
+}

@@ -1,0 +1,14 @@
+{
+  "name": "C1908",
+  "benchmark_group": "mcnc",
+  "pi_count": 33,
+  "po_count": 0,
+  "gate_count": 25,
+  "level": 26,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 465,
+  "total_gates": 490,
+  "num_latches": 432
+}

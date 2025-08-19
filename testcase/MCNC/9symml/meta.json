@@ -1,0 +1,14 @@
+{
+  "name": "9symml",
+  "benchmark_group": "mcnc",
+  "pi_count": 9,
+  "po_count": 0,
+  "gate_count": 1,
+  "level": 13,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 220,
+  "total_gates": 221,
+  "num_latches": 211
+}

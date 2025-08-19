@@ -1,0 +1,14 @@
+{
+  "name": "ex06",
+  "benchmark_group": "iwls2022",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 1,
+  "level": 26,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 2531,
+  "total_gates": 2532,
+  "num_latches": 2519
+}

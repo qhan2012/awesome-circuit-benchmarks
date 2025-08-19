@@ -1,0 +1,14 @@
+{
+  "name": "hyp",
+  "benchmark_group": "EPFL",
+  "pi_count": 256,
+  "po_count": 1,
+  "gate_count": 128,
+  "level": 24801,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "arith",
+  "max_var": 235548,
+  "total_gates": 235677,
+  "num_latches": 235292
+}

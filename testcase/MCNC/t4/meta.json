@@ -1,0 +1,14 @@
+{
+  "name": "t4",
+  "benchmark_group": "mcnc",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 16,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 181,
+  "total_gates": 189,
+  "num_latches": 169
+}

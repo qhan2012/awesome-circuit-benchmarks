@@ -1,0 +1,14 @@
+{
+  "name": "opa",
+  "benchmark_group": "mcnc",
+  "pi_count": 17,
+  "po_count": 0,
+  "gate_count": 69,
+  "level": 18,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 809,
+  "total_gates": 878,
+  "num_latches": 792
+}

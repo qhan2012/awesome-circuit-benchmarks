@@ -1,0 +1,14 @@
+{
+  "name": "ex195",
+  "benchmark_group": "iwls2025",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 16,
+  "level": 32,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 2608,
+  "total_gates": 2624,
+  "num_latches": 2592
+}

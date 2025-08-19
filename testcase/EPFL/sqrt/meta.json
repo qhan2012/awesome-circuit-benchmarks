@@ -1,0 +1,14 @@
+{
+  "name": "sqrt",
+  "benchmark_group": "EPFL",
+  "pi_count": 128,
+  "po_count": 1,
+  "gate_count": 64,
+  "level": 5058,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "arith",
+  "max_var": 25202,
+  "total_gates": 25267,
+  "num_latches": 25074
+}

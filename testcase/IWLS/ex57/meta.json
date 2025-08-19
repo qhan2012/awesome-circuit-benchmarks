@@ -1,0 +1,14 @@
+{
+  "name": "ex57",
+  "benchmark_group": "iwls2022",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 3,
+  "level": 28,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 2289,
+  "total_gates": 2292,
+  "num_latches": 2277
+}

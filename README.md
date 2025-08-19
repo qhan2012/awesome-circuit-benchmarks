@@ -1,0 +1,445 @@
+# Circuit Benchmark Testcases
+
+This repository contains a comprehensive collection of circuit benchmarks for logic synthesis and verification research.
+
+## 📊 Repository Statistics
+
+- **Total Circuits**: 1,639
+- **Total Size**: ~161 MB
+- **Benchmark Suites**: 6 (EPFL, MCNC, Synthetic, ISCAS85, ISCAS89, ITC99)
+- **Circuit Types**: Combinational, Sequential, Arithmetic, Control, Memory, etc.
+
+## 🏗️ Circuit Types
+
+### EPFL Circuits (20 circuits)
+- **mem_ctrl**: Memory controller (1,204 inputs, 1,231 outputs)
+- **voter**: Voting circuit (1,001 inputs, 1 output)
+- **max**: Maximum finder (512 inputs, 130 outputs)
+- **adder**: Adder circuit (256 inputs, 129 outputs)
+- **div**: Division circuit
+- **sin**: Sine function
+- **int2float**: Integer to float converter
+- **i2c**: I2C interface
+- **ctrl**: Control logic
+- **hyp**: Hyperbolic functions
+- **bar**: Barrel shifter
+- **square**: Square function
+- **sqrt**: Square root
+- **dec**: Decoder
+- **log2**: Logarithm base 2
+- **multiplier**: Multiplier
+- **cavlc**: Context-adaptive variable-length coding
+- **priority**: Priority encoder
+- **router**: Router logic
+- **arbiter**: Arbiter circuit
+
+### MCNC Circuits (150+ circuits)
+- **des**: Data Encryption Standard (256 inputs, 245 outputs)
+- **i10**: Industrial circuit (257 inputs, 224 outputs)
+- **ti**: Texas Instruments circuit
+- **i9**: Industrial circuit
+- **clip**: Clipping circuit
+- **max512**: Maximum finder
+- **sqrt8**: Square root
+- **C3540**: ISCAS benchmark
+- **bc0**: Benchmark circuit
+- **z4ml**: Z4ML benchmark
+- **misex3**: Misex benchmark
+- **br2**: Benchmark circuit
+- **cht**: Benchmark circuit
+- **duke2**: Duke benchmark
+- **count**: Counter circuit
+- **newtpla1**: New TPLA benchmark
+- **x9dn**: X9DN benchmark
+- **bcd**: BCD circuit
+- **sct**: Benchmark circuit
+- **cm82a**: CM82A benchmark
+- **cps**: CPS benchmark
+- **t1**: T1 benchmark
+- **C499**: ISCAS benchmark
+- **sqn**: Benchmark circuit
+- **in7**: Input circuit
+- **ibm**: IBM benchmark
+- **x3**: X3 benchmark
+- **clpl**: CPL benchmark
+- **rd84**: RD84 benchmark
+- **apex6**: APEX benchmark
+- **luc**: LUC benchmark
+- **squar5**: Square circuit
+- **C432**: ISCAS benchmark
+- **b3**: B3 benchmark
+- **xor5**: XOR circuit
+- **b12**: B12 benchmark
+- **root**: Root circuit
+- **pcler8**: PCLER benchmark
+- **my_adder**: Custom adder
+- **m1**: M1 benchmark
+- **pdc**: PDC benchmark
+- **rd53**: RD53 benchmark
+- **cmb**: CMB benchmark
+- **dist**: Distance circuit
+- **cm85a**: CM85A benchmark
+- **b4**: B4 benchmark
+- **c8**: C8 benchmark
+- **xparc**: XPARC benchmark
+- **newcwp**: New CWP benchmark
+- **too_large**: Large circuit
+- **mainpla**: Main PLA
+- **mark1**: Mark1 benchmark
+- **x6dn**: X6DN benchmark
+- **amd**: AMD benchmark
+- **i5**: I5 benchmark
+- **dc2**: DC2 benchmark
+- **spla**: SPLA benchmark
+- **max1024**: Maximum finder
+- **signet**: Signet benchmark
+- **dk17**: DK17 benchmark
+- **alu1**: ALU1 benchmark
+- **cm150a**: CM150A benchmark
+- **t3**: T3 benchmark
+- **in0**: Input circuit
+- **bcb**: BCB benchmark
+- **frg2**: FRG2 benchmark
+- **i2**: I2 benchmark
+- **inc**: Increment circuit
+- **gary**: Gary benchmark
+- **apex1**: APEX1 benchmark
+- **o64**: O64 benchmark
+- **x1**: X1 benchmark
+- **i1**: I1 benchmark
+- **ex4**: EX4 benchmark
+- **table5**: Table5 benchmark
+- **newtpla**: New TPLA benchmark
+- **cm162a**: CM162A benchmark
+- **chkn**: CHKN benchmark
+- **C1908**: ISCAS benchmark
+- **dalu**: DALU benchmark
+- **newtag**: New tag benchmark
+- **pcle**: PCLE benchmark
+- **5xp1**: 5XP1 benchmark
+- **newill**: New ill benchmark
+- **9symml**: 9SYMML benchmark
+- **prom2**: PROM2 benchmark
+- **C17**: ISCAS benchmark
+- **i7**: I7 benchmark
+- **x4**: X4 benchmark
+- **dc1**: DC1 benchmark
+- **bca**: BCA benchmark
+- **m4**: M4 benchmark
+- **apex7**: APEX7 benchmark
+- **sqr6**: Square root
+- **i3**: I3 benchmark
+- **alu4**: ALU4 benchmark
+- **cm42a**: CM42A benchmark
+- **b10**: B10 benchmark
+- **b2**: B2 benchmark
+- **t481**: T481 benchmark
+- **newapla**: New APLA benchmark
+- **apex2**: APEX2 benchmark
+- **newcpla2**: New CPLA2 benchmark
+- **vda**: VDA benchmark
+- **alu3**: ALU3 benchmark
+- **t2**: T2 benchmark
+- **in4**: Input circuit
+- **max128**: Maximum finder
+- **sao2**: SAO2 benchmark
+- **b11**: B11 benchmark
+- **seq**: Sequential circuit
+- **m3**: M3 benchmark
+- **newtpla2**: New TPLA2 benchmark
+- **con1**: CON1 benchmark
+- **mlp4**: MLP4 benchmark
+- **rd73**: RD73 benchmark
+- **cm152a**: CM152A benchmark
+- **bw**: BW benchmark
+- **alcom**: ALCOM benchmark
+- **b7**: B7 benchmark
+- **ex1010**: EX1010 benchmark
+- **comp**: Comp benchmark
+- **p82**: P82 benchmark
+- **al2**: AL2 benchmark
+- **m2**: M2 benchmark
+- **in1**: Input circuit
+- **ryy6**: RYY6 benchmark
+- **shift**: Shift circuit
+- **Z5xp1**: Z5XP1 benchmark
+- **x2**: X2 benchmark
+- **tcon**: TCON benchmark
+- **pair**: Pair benchmark
+- **vtx1**: VTX1 benchmark
+- **newbyte**: New byte benchmark
+- **t**: T benchmark
+- **newcpla1**: New CPLA1 benchmark
+- **C880**: ISCAS benchmark
+- **soar**: SOAR benchmark
+- **mp2d**: MP2D benchmark
+- **C5315**: ISCAS benchmark
+- **newcond**: New cond benchmark
+- **prom1**: PROM1 benchmark
+- **in2**: Input circuit
+- **opa**: OPA benchmark
+- **example2**: Example2 benchmark
+- **misj**: MISJ benchmark
+- **t4**: T4 benchmark
+- **max46**: Maximum finder
+- **ts10**: TS10 benchmark
+- **newapla1**: New APLA1 benchmark
+- **newapla2**: New APLA2 benchmark
+- **jbp**: JBP benchmark
+- **lal**: LAL benchmark
+- **mux**: Multiplexer
+- **9sym**: 9SYM benchmark
+- **x1dn**: X1DN benchmark
+- **alu2**: ALU2 benchmark
+- **dekoder**: Decoder
+- **cu**: Control unit
+- **majority**: Majority circuit
+- **ex7**: EX7 benchmark
+- **e64**: E64 benchmark
+- **frg1**: FRG1 benchmark
+- **exps**: EXPS benchmark
+- **tms**: TMS benchmark
+- **intb**: INTB benchmark
+- **x2dn**: X2DN benchmark
+- **apex4**: APEX4 benchmark
+- **apex5**: APEX5 benchmark
+- **i4**: I4 benchmark
+- **pope**: POPE benchmark
+- **in5**: Input circuit
+- **exep**: EXEP benchmark
+- **parity**: Parity circuit
+- **in3**: Input circuit
+- **sex**: SEX benchmark
+- **misex3c**: MISEX3C benchmark
+- **ex5**: EX5 benchmark
+- **vg2**: VG2 benchmark
+- **cm163a**: CM163A benchmark
+- **b1**: B1 benchmark
+- **ttt2**: TTT2 benchmark
+- **br1**: BR1 benchmark
+- **mish**: MISH benchmark
+- **risc**: RISC benchmark
+- **rot**: Rotate circuit
+- **k2**: K2 benchmark
+- **x7dn**: X7DN benchmark
+- **apex3**: APEX3 benchmark
+- **dk27**: DK27 benchmark
+- **term1**: TERM1 benchmark
+- **cordic**: CORDIC benchmark
+- **newxcpla1**: New XCPLA1 benchmark
+- **misex1**: MISEX1 benchmark
+- **lin**: LIN benchmark
+- **decod**: Decoder
+- **misex2**: MISEX2 benchmark
+- **wim**: WIM benchmark
+- **cm138a**: CM138A benchmark
+- **pm1**: PM1 benchmark
+- **exp**: EXP benchmark
+- **in6**: Input circuit
+- **apla**: APLA benchmark
+- **cm151a**: CM151A benchmark
+- **C1355**: ISCAS benchmark
+- **C6288**: ISCAS benchmark
+- **dk48**: DK48 benchmark
+- **table3**: Table3 benchmark
+- **C7552**: ISCAS benchmark
+- **cc**: CC benchmark
+
+### Synthetic Circuits (100+ circuits)
+- **sort_32x16b_bitonic_l4**: 32x16-bit bitonic sorter
+- **sort_32x8b_bitonic_l6**: 32x8-bit bitonic sorter
+- **sort_32x8b_bitonic_l2**: 32x8-bit bitonic sorter
+- **sort_16x16b_bitonic_l3**: 16x16-bit bitonic sorter
+- **mult_16x16_wallace_vl1**: 16x16 Wallace multiplier
+- **mult_8x8_wallace_l7**: 8x8 Wallace multiplier
+- **mult_4x4_wallace_ml6**: 4x4 Wallace multiplier
+- **mult_8x8_dadda_l8**: 8x8 Dadda multiplier
+- **mult_4x4_array_ml1**: 4x4 array multiplier
+- **mult_4x4_booth_ml2**: 4x4 Booth multiplier
+- **fir_8b_8tap_ml1**: 8-bit 8-tap FIR filter
+- **fir_8b_16tap_ml3**: 8-bit 16-tap FIR filter
+- **conv_5x5_4ch_vl6**: 5x5 4-channel convolution
+- **conv_3x3_8ch_vl3**: 3x3 8-channel convolution
+- **decoder_3to8_s5**: 3-to-8 decoder
+- **conv_5x5_8ch_vl4**: 5x5 8-channel convolution
+- **aig_mix_2_vl2**: AIG mix 2
+- **mux_4to1_s6**: 4-to-1 multiplexer
+- **mux_16to1_s8**: 16-to-1 multiplexer
+- **encoder_4to2_s1**: 4-to-2 encoder
+- **filter_8b_8tap_m3**: 8-bit 8-tap filter
+- **decoder_4to16_s3**: 4-to-16 decoder
+- **encoder_4to2_s4**: 4-to-2 encoder
+- **aig_mix_3_vl3**: AIG mix 3
+- **mult_16x16_dadda_vl5**: 16x16 Dadda multiplier
+- **aig_mix_4_vl4**: AIG mix 4
+- **tree_16in_and_m4**: 16-input AND tree
+- **mux_8to1_s3**: 8-to-1 multiplexer
+- **aig_mix_7_vl7**: AIG mix 7
+- **cordic_16b_l2**: 16-bit CORDIC
+- **decoder_4to16_s6**: 4-to-16 decoder
+- **adder_32b_csel_m6**: 32-bit carry-select adder
+- **tree_8in_or_m5**: 8-input OR tree
+- **decoder_3to8_s2**: 3-to-8 decoder
+- **fir_16b_16tap_ml4**: 16-bit 16-tap FIR filter
+- **conv_3x3_4ch_vl5**: 3x3 4-channel convolution
+- **tree_8in_xor_m3**: 8-input XOR tree
+- **div_16b_l3**: 16-bit divider
+- **aig_mix_8_vl8**: AIG mix 8
+- **mult_8x8_dadda_l4**: 8x8 Dadda multiplier
+- **cordic_8b_l5**: 8-bit CORDIC
+- **mux_2to1_s5**: 2-to-1 multiplexer
+- **sort_16x8b_bitonic_l5**: 16x8-bit bitonic sorter
+- **div_8b_l6**: 8-bit divider
+- **filter_8b_4tap_m1**: 8-bit 4-tap filter
+- **mux_8to1_s7**: 8-to-1 multiplexer
+- **mult_4x4_wallace_ml3**: 4x4 Wallace multiplier
+- **adder_8b_ripple_m7**: 8-bit ripple carry adder
+- **encoder_16to4_s3**: 16-to-4 encoder
+- **filter_8b_4tap_m5**: 8-bit 4-tap filter
+- **mult_8x8_array_l5**: 8x8 array multiplier
+- **decoder_2to4_s4**: 2-to-4 decoder
+- **fir_16b_8tap_ml6**: 16-bit 8-tap FIR filter
+- **mult_8x8_booth_l6**: 8x8 Booth multiplier
+- **mult_8x8_array_l1**: 8x8 array multiplier
+- **fir_16b_8tap_ml2**: 16-bit 8-tap FIR filter
+- **adder_8b_csel_m4**: 8-bit carry-select adder
+- **adder_32b_ripple_m3**: 32-bit ripple carry adder
+- **aig_mix_1_vl1**: AIG mix 1
+- **conv_5x5_4ch_vl2**: 5x5 4-channel convolution
+- **conv_3x3_4ch_vl1**: 3x3 4-channel convolution
+- **sort_16x8b_bitonic_l1**: 16x8-bit bitonic sorter
+- **sort_4x8b_bubble_ml1**: 4x8-bit bubble sorter
+- **tree_16in_xor_m6**: 16-input XOR tree
+- **mult_16x16_booth4_vl6**: 16x16 Booth4 multiplier
+- **fir_8b_8tap_ml5**: 8-bit 8-tap FIR filter
+- **filter_16b_4tap_m2**: 16-bit 4-tap filter
+- **sort_8x8b_bubble_ml2**: 8x8-bit bubble sorter
+- **tree_8in_and_m1**: 8-input AND tree
+- **aig_mix_6_vl6**: AIG mix 6
+- **sort_4x8b_bubble_ml5**: 4x8-bit bubble sorter
+- **tree_16in_or_m2**: 16-input OR tree
+- **mult_8x8_wallace_l3**: 8x8 Wallace multiplier
+- **mux_2to1_s1**: 2-to-1 multiplexer
+- **encoder_16to4_s6**: 16-to-4 encoder
+- **mult_16x16_booth4_vl3**: 16x16 Booth4 multiplier
+- **sort_4x8b_bitonic_ml3**: 4x8-bit bitonic sorter
+- **mult_4x4_booth_ml5**: 4x4 Booth multiplier
+- **mult_16x16_dadda_vl2**: 16x16 Dadda multiplier
+- **filter_16b_8tap_m4**: 16-bit 8-tap filter
+- **adder_16b_ripple_m2**: 16-bit ripple carry adder
+- **mult_8x8_booth_l2**: 8x8 Booth multiplier
+- **encoder_8to3_s2**: 8-to-3 encoder
+- **adder_16b_ripple_m8**: 16-bit ripple carry adder
+- **decoder_2to4_s1**: 2-to-4 decoder
+- **mac_16b_l1**: 16-bit MAC
+- **adder_8b_ripple_m1**: 8-bit ripple carry adder
+- **filter_16b_4tap_m6**: 16-bit 4-tap filter
+- **encoder_8to3_s5**: 8-to-3 encoder
+- **mac_8b_l4**: 8-bit MAC
+
+### ISCAS85 Circuits (11 circuits)
+- **c5315**: ISCAS85 benchmark
+- **c17**: ISCAS85 benchmark
+- **c432**: ISCAS85 benchmark
+- **c1355**: ISCAS85 benchmark
+- **c1908**: ISCAS85 benchmark
+- **c3540**: ISCAS85 benchmark
+- **c6288**: ISCAS85 benchmark
+- **c880**: ISCAS85 benchmark
+- **c499**: ISCAS85 benchmark
+- **c7552**: ISCAS85 benchmark
+- **c2670**: ISCAS85 benchmark
+
+### ISCAS89 Circuits (31 circuits)
+- **s27**: ISCAS89 benchmark
+- **s208**: ISCAS89 benchmark
+- **s298**: ISCAS89 benchmark
+- **s344**: ISCAS89 benchmark
+- **s349**: ISCAS89 benchmark
+- **s382**: ISCAS89 benchmark
+- **s386**: ISCAS89 benchmark
+- **s400**: ISCAS89 benchmark
+- **s420**: ISCAS89 benchmark
+- **s444**: ISCAS89 benchmark
+- **s510**: ISCAS89 benchmark
+- **s526**: ISCAS89 benchmark
+- **s526n**: ISCAS89 benchmark
+- **s5378**: ISCAS89 benchmark
+- **s641**: ISCAS89 benchmark
+- **s713**: ISCAS89 benchmark
+- **s820**: ISCAS89 benchmark
+- **s832**: ISCAS89 benchmark
+- **s838**: ISCAS89 benchmark
+- **s953**: ISCAS89 benchmark
+- **s1196**: ISCAS89 benchmark
+- **s1238**: ISCAS89 benchmark
+- **s1423**: ISCAS89 benchmark
+- **s1488**: ISCAS89 benchmark
+- **s1494**: ISCAS89 benchmark
+- **s9234**: ISCAS89 benchmark
+- **s13207**: ISCAS89 benchmark
+- **s15850**: ISCAS89 benchmark
+- **s35932**: ISCAS89 benchmark
+- **s38417**: ISCAS89 benchmark
+- **s38584**: ISCAS89 benchmark
+
+### ITC99 Circuits (22 circuits)
+- **b01**: ITC99 benchmark
+- **b02**: ITC99 benchmark
+- **b03**: ITC99 benchmark
+- **b04**: ITC99 benchmark
+- **b05**: ITC99 benchmark
+- **b06**: ITC99 benchmark
+- **b07**: ITC99 benchmark
+- **b08**: ITC99 benchmark
+- **b09**: ITC99 benchmark
+- **b10**: ITC99 benchmark
+- **b11**: ITC99 benchmark
+- **b12**: ITC99 benchmark
+- **b13**: ITC99 benchmark
+- **b14**: ITC99 benchmark
+- **b15**: ITC99 benchmark
+- **b17**: ITC99 benchmark
+- **b18**: ITC99 benchmark
+- **b19**: ITC99 benchmark
+- **b20**: ITC99 benchmark
+- **b21**: ITC99 benchmark
+- **b22**: ITC99 benchmark
+
+## 📁 File Structure
+
+Each circuit typically contains:
+- **`.aag`**: And-Inverter Graph (ASCII format)
+- **`.aig`**: And-Inverter Graph (binary format)
+- **`.blif`**: Berkeley Logic Interchange Format
+- **`.v`**: Verilog source (if available)
+- **`meta.json`**: Circuit metadata and statistics
+
+## 🔧 Usage
+
+These circuits can be used with:
+- **ABC**: A System for Sequential Synthesis and Verification
+- **Yosys**: Open Synthesis Suite
+- **Other EDA tools** that support AIG/BLIF formats
+
+## 📊 Statistics
+
+- **Total Circuits**: 1,639
+- **Total Size**: ~161 MB
+- **Benchmark Suites**: 6
+- **Circuit Types**: Combinational, Sequential, Arithmetic, Control, etc.
+
+## 📄 License
+
+This repository contains benchmark circuits from various sources. Please refer to individual benchmark suite licenses for usage terms.
+
+## 🤝 Contributing
+
+Feel free to submit issues or enhancement requests for missing circuits or metadata improvements.
+
+## 📚 References
+
+- **EPFL**: École Polytechnique Fédérale de Lausanne
+- **MCNC**: Microelectronics Center of North Carolina
+- **ISCAS**: International Symposium on Circuits and Systems
+- **ITC99**: International Test Conference 1999

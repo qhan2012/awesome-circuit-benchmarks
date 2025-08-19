@@ -1,0 +1,14 @@
+{
+  "name": "c7552",
+  "benchmark_group": "iscas85",
+  "pi_count": 207,
+  "po_count": 0,
+  "gate_count": 108,
+  "level": 34,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 2023,
+  "total_gates": 2131,
+  "num_latches": 1816
+}

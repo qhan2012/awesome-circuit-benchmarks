@@ -1,0 +1,14 @@
+{
+  "name": "misg",
+  "benchmark_group": "mcnc",
+  "pi_count": 56,
+  "po_count": 0,
+  "gate_count": 23,
+  "level": 10,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 121,
+  "total_gates": 144,
+  "num_latches": 65
+}

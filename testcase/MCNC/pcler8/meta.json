@@ -1,0 +1,14 @@
+{
+  "name": "pcler8",
+  "benchmark_group": "mcnc",
+  "pi_count": 27,
+  "po_count": 0,
+  "gate_count": 17,
+  "level": 12,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "control",
+  "max_var": 98,
+  "total_gates": 115,
+  "num_latches": 71
+}

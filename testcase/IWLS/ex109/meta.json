@@ -1,0 +1,14 @@
+{
+  "name": "ex109",
+  "benchmark_group": "iwls2025",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 12,
+  "level": 28,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 10025,
+  "total_gates": 10037,
+  "num_latches": 10013
+}

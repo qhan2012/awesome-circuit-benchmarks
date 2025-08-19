@@ -1,0 +1,17 @@
+{
+  "name": "cordic_16b_l2",
+  "benchmark_group": "Synthetic",
+  "pi_count": 48,
+  "po_count": 0,
+  "gate_count": 48,
+  "level": 203,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "cordic",
+  "size_category": "large",
+  "description": "16-bit precision Unrolled CORDIC algorithm for rotation/trigonometric functions",
+  "conversion_note": "Converted from iterative state machine to unrolled combinational pipeline",
+  "max_var": 4822,
+  "total_gates": 4870,
+  "num_latches": 4774
+}

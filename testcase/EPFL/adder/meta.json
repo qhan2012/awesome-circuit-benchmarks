@@ -1,0 +1,14 @@
+{
+  "name": "adder",
+  "benchmark_group": "EPFL",
+  "pi_count": 256,
+  "po_count": 1,
+  "gate_count": 129,
+  "level": 255,
+  "category": "combinational",
+  "difficulty": "hard",
+  "circuit_type": "arith",
+  "max_var": 1505,
+  "total_gates": 1635,
+  "num_latches": 1249
+}

@@ -1,0 +1,17 @@
+{
+  "name": "conv_3x3_8ch_vl3",
+  "benchmark_group": "Synthetic",
+  "pi_count": 72,
+  "po_count": 0,
+  "gate_count": 128,
+  "level": 59,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "conv",
+  "size_category": "midlevel",
+  "description": "multi-bit precision 3x3 kernel Parallel convolution engine with fixed weights",
+  "conversion_note": "Converted from memory-based sliding window to parallel computation with fixed weights",
+  "max_var": 9169,
+  "total_gates": 9297,
+  "num_latches": 9097
+}

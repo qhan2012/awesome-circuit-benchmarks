@@ -1,0 +1,14 @@
+{
+  "name": "newcwp",
+  "benchmark_group": "mcnc",
+  "pi_count": 4,
+  "po_count": 0,
+  "gate_count": 5,
+  "level": 5,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "other",
+  "max_var": 18,
+  "total_gates": 23,
+  "num_latches": 14
+}

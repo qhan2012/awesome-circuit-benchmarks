@@ -1,0 +1,14 @@
+{
+  "name": "ex24",
+  "benchmark_group": "iwls2022",
+  "pi_count": 13,
+  "po_count": 0,
+  "gate_count": 13,
+  "level": 26,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "sorter",
+  "max_var": 1960,
+  "total_gates": 1973,
+  "num_latches": 1947
+}

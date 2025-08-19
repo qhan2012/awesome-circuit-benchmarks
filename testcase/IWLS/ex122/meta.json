@@ -1,0 +1,14 @@
+{
+  "name": "ex122",
+  "benchmark_group": "iwls2025",
+  "pi_count": 12,
+  "po_count": 0,
+  "gate_count": 12,
+  "level": 28,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "multiplier",
+  "max_var": 9265,
+  "total_gates": 9277,
+  "num_latches": 9253
+}

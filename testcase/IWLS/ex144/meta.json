@@ -1,0 +1,14 @@
+{
+  "name": "ex144",
+  "benchmark_group": "iwls2025",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 32,
+  "level": 42,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 196611,
+  "total_gates": 196643,
+  "num_latches": 196595
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ex20",
+  "benchmark_group": "iwls2022",
+  "pi_count": 9,
+  "po_count": 0,
+  "gate_count": 9,
+  "level": 19,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "sorter",
+  "max_var": 403,
+  "total_gates": 412,
+  "num_latches": 394
+}

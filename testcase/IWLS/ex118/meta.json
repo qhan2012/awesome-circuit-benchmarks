@@ -1,0 +1,14 @@
+{
+  "name": "ex118",
+  "benchmark_group": "iwls2025",
+  "pi_count": 14,
+  "po_count": 0,
+  "gate_count": 14,
+  "level": 30,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 13298,
+  "total_gates": 13312,
+  "num_latches": 13284
+}

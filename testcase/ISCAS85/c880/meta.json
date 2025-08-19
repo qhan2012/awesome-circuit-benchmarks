@@ -1,0 +1,14 @@
+{
+  "name": "c880",
+  "benchmark_group": "iscas85",
+  "pi_count": 60,
+  "po_count": 0,
+  "gate_count": 26,
+  "level": 27,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 426,
+  "total_gates": 452,
+  "num_latches": 366
+}

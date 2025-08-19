@@ -1,0 +1,14 @@
+{
+  "name": "log2",
+  "benchmark_group": "EPFL",
+  "pi_count": 32,
+  "po_count": 1,
+  "gate_count": 32,
+  "level": 444,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "arith",
+  "max_var": 31922,
+  "total_gates": 31955,
+  "num_latches": 31890
+}

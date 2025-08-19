@@ -1,0 +1,14 @@
+{
+  "name": "alu3",
+  "benchmark_group": "mcnc",
+  "pi_count": 10,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 11,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 88,
+  "total_gates": 96,
+  "num_latches": 78
+}

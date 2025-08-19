@@ -1,0 +1,14 @@
+{
+  "name": "ttt2",
+  "benchmark_group": "mcnc",
+  "pi_count": 24,
+  "po_count": 0,
+  "gate_count": 21,
+  "level": 11,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "other",
+  "max_var": 164,
+  "total_gates": 185,
+  "num_latches": 140
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mac_16b_l1",
+  "benchmark_group": "Synthetic",
+  "pi_count": 256,
+  "po_count": 0,
+  "gate_count": 24,
+  "level": 83,
+  "category": "combinational",
+  "difficulty": "extreme",
+  "circuit_type": "mac",
+  "size_category": "large",
+  "description": "16-bit precision Parallel multiply-accumulate unit (combinational)",
+  "conversion_note": "Converted from sequential accumulator to parallel multiply-add tree",
+  "max_var": 15517,
+  "total_gates": 15541,
+  "num_latches": 15261
+}

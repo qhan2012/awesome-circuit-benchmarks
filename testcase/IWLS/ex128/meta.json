@@ -1,0 +1,14 @@
+{
+  "name": "ex128",
+  "benchmark_group": "iwls2025",
+  "pi_count": 14,
+  "po_count": 0,
+  "gate_count": 7,
+  "level": 33,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "multiplier",
+  "max_var": 48601,
+  "total_gates": 48608,
+  "num_latches": 48587
+}

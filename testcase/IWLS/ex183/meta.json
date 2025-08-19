@@ -1,0 +1,14 @@
+{
+  "name": "ex183",
+  "benchmark_group": "iwls2025",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 16,
+  "level": 31,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "arith",
+  "max_var": 10660,
+  "total_gates": 10676,
+  "num_latches": 10644
+}

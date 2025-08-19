@@ -1,0 +1,14 @@
+{
+  "name": "ex134",
+  "benchmark_group": "iwls2025",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 37,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "divider",
+  "max_var": 9687,
+  "total_gates": 9695,
+  "num_latches": 9671
+}

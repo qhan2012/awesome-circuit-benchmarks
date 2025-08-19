@@ -1,0 +1,17 @@
+{
+  "name": "filter_16b_8tap_m4",
+  "benchmark_group": "Synthetic",
+  "pi_count": 128,
+  "po_count": 0,
+  "gate_count": 20,
+  "level": 62,
+  "category": "combinational",
+  "difficulty": "very_hard",
+  "circuit_type": "filter",
+  "size_category": "large",
+  "description": "16-bit precision 8-tap Combinational FIR filter with parallel tap structure",
+  "conversion_note": "Converted from sequential shift register to parallel tap structure",
+  "max_var": 2333,
+  "total_gates": 2353,
+  "num_latches": 2205
+}

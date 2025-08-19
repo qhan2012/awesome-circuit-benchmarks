@@ -1,0 +1,14 @@
+{
+  "name": "ryy6",
+  "benchmark_group": "mcnc",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 1,
+  "level": 8,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 32,
+  "total_gates": 33,
+  "num_latches": 16
+}

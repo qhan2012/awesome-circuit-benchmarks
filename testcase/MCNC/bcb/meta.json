@@ -1,0 +1,14 @@
+{
+  "name": "bcb",
+  "benchmark_group": "mcnc",
+  "pi_count": 26,
+  "po_count": 0,
+  "gate_count": 39,
+  "level": 26,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "control",
+  "max_var": 3340,
+  "total_gates": 3379,
+  "num_latches": 3314
+}

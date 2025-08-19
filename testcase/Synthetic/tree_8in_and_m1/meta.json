@@ -1,0 +1,15 @@
+{
+  "name": "tree_8in_and_m1",
+  "benchmark_group": "Synthetic",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 1,
+  "level": 3,
+  "category": "combinational",
+  "difficulty": "easy",
+  "circuit_type": "tree",
+  "size_category": "medium",
+  "max_var": 15,
+  "total_gates": 16,
+  "num_latches": 7
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ex42",
+  "benchmark_group": "iwls2022",
+  "pi_count": 7,
+  "po_count": 0,
+  "gate_count": 3,
+  "level": 12,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "logic",
+  "max_var": 148,
+  "total_gates": 151,
+  "num_latches": 141
+}

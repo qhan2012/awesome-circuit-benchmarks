@@ -1,0 +1,15 @@
+{
+  "name": "sort_4x8b_bubble_ml5",
+  "benchmark_group": "Synthetic",
+  "pi_count": 64,
+  "po_count": 0,
+  "gate_count": 32,
+  "level": 11,
+  "category": "combinational",
+  "difficulty": "easy",
+  "circuit_type": "sorter",
+  "size_category": "midlevel",
+  "max_var": 64,
+  "total_gates": 96,
+  "num_latches": 0
+}

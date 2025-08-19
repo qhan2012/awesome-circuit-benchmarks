@@ -1,0 +1,15 @@
+{
+  "name": "adder_32b_csel_m6",
+  "benchmark_group": "Synthetic",
+  "pi_count": 65,
+  "po_count": 0,
+  "gate_count": 33,
+  "level": 48,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "adder",
+  "size_category": "medium",
+  "max_var": 428,
+  "total_gates": 461,
+  "num_latches": 363
+}

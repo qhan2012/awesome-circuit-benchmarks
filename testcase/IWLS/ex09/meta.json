@@ -1,0 +1,14 @@
+{
+  "name": "ex09",
+  "benchmark_group": "iwls2022",
+  "pi_count": 8,
+  "po_count": 0,
+  "gate_count": 8,
+  "level": 16,
+  "category": "real",
+  "difficulty": "",
+  "circuit_type": "crypto",
+  "max_var": 1238,
+  "total_gates": 1246,
+  "num_latches": 1230
+}

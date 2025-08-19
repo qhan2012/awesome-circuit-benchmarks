@@ -1,0 +1,17 @@
+{
+  "name": "div_8b_l6",
+  "benchmark_group": "Synthetic",
+  "pi_count": 16,
+  "po_count": 0,
+  "gate_count": 16,
+  "level": 90,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "divider",
+  "size_category": "large",
+  "description": "8-bit precision Combinational divider using repeated subtraction",
+  "conversion_note": "Converted from sequential division to combinational repeated subtraction",
+  "max_var": 344,
+  "total_gates": 360,
+  "num_latches": 328
+}

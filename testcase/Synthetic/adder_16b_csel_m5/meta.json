@@ -1,0 +1,15 @@
+{
+  "name": "adder_16b_csel_m5",
+  "benchmark_group": "Synthetic",
+  "pi_count": 33,
+  "po_count": 0,
+  "gate_count": 17,
+  "level": 26,
+  "category": "combinational",
+  "difficulty": "medium",
+  "circuit_type": "adder",
+  "size_category": "medium",
+  "max_var": 193,
+  "total_gates": 210,
+  "num_latches": 160
+}

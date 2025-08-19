@@ -1,0 +1,17 @@
+{
+  "name": "div_16b_l3",
+  "benchmark_group": "Synthetic",
+  "pi_count": 32,
+  "po_count": 0,
+  "gate_count": 32,
+  "level": 306,
+  "category": "combinational",
+  "difficulty": "hard",
+  "circuit_type": "divider",
+  "size_category": "large",
+  "description": "16-bit precision Combinational divider using repeated subtraction",
+  "conversion_note": "Converted from sequential division to combinational repeated subtraction",
+  "max_var": 1477,
+  "total_gates": 1509,
+  "num_latches": 1445
+}
