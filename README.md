@@ -424,7 +424,7 @@ These circuits can be used with:
 
 ## 📊 Statistics
 
-- **Total Circuits**: 1,639
+- **Total Circuits**: 402
 - **Total Size**: ~161 MB
 - **Benchmark Suites**: 6
 - **Circuit Types**: Combinational, Sequential, Arithmetic, Control, etc.
