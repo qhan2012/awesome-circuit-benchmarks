@@ -4,7 +4,7 @@ This repository contains a comprehensive collection of circuit benchmarks for lo
 
 ## 📊 Repository Statistics
 
-- **Total Circuits**: 1,639
+- **Total Circuits**: 402
 - **Total Size**: ~161 MB
 - **Benchmark Suites**: 6 (EPFL, MCNC, Synthetic, ISCAS85, ISCAS89, ITC99)
 - **Circuit Types**: Combinational, Sequential, Arithmetic, Control, Memory, etc.
